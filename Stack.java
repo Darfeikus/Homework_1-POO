@@ -9,7 +9,6 @@ public class Stack<T> {
 		elements = new ArrayList< T >(i); 
 	}
 	public void push(T p) {
-		System.out.println(p);
 		elements.add(p); 
 	} 
 	public T pop() {

@@ -83,10 +83,9 @@ class Main{
 						operators.push(str(operation.charAt(j)));
 					}
 				}
-				System.out.println(numbers.pop());
 			}
 			catch(EmptyQueueException q){
-				System.out.println(q);
+				System.out.parseIntln(q);
 			}
 		}
 	}
