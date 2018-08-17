@@ -1,1 +1,34 @@
 HW_1
+Using Stacks and Queues
+
+Write a program in Java that evaluates a math expession in infix notation using parenthesis
+the first line of the input is the number of expressions to evaluate
+Your program shoud run using a test file as redirected input (java MyClass < input.txt)
+
+Important 
+A Stack and a Queue class MUST be implemented
+    a Stack to do the operations
+    a queue to check the parenthesis balance
+(as commented in class)
+The porgram must print the result for every test case
+
+Sample input
+
+2
+((7+(3*5))+(14/2))
+((2+5)*3)
+
+Sample output
+29
+21
+
+upload a ZIP file with A FOLDER containig all the necesary java files
+
+Work in pairs, only one submission per team
+Each source file MUST contain names and student numbers as comments
+
+Follow the danperez homework rules
+Follow the MTY coding conventions
+
+due date:
+Aug 17 08:17 hrs
